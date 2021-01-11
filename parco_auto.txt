@@ -1,0 +1,13 @@
+Nome Tabella = Parco_auto
+
+ID - numero INT
+
+MARCA - stringa VARCHAR(40)
+MODELLO - stringa VARCHAR(80)
+TIPO VEICOLO - Usato o Nuovo o Km zero stringa VARCHAR(7)
+NUMERO PROPRIETARI - numero INT
+ANNO - numero YEAR
+TIPO DI CAMBIO - stringa VARCHAR(20)
+CILINDRATA - numero FLOAT(1,3)
+CLASSE EMISSIONI - stringa (10)
+DESCRIZIONE - stringa TEXT
